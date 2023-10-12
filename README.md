@@ -1,2 +1,2 @@
 # TwitterScraping
-The same goes for Twitter...a personal endeavor
+A personal endeavor side project. 
